@@ -1,5 +1,9 @@
 # Brainwave Design Website
 
+![Banner Image](./banner.png)
+
+View the deployed site [here](https://tubular-froyo-f4db35.netlify.app/).
+
 This is a React-based website built using Vite for fast bundling and development. The design is inspired by a brainwave UI concept found on [UI8](https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm), and the styling is implemented with Tailwind CSS for rapid and responsive design.
 
 ## Features
