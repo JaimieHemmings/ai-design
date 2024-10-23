@@ -8,17 +8,27 @@ This is a React-based website built using Vite for fast bundling and development
 
 ## Features
 
-Responsive Design: Built with Tailwind CSS for mobile-first responsiveness.
-Modern Build Tools: Powered by Vite for fast development and optimized builds.
-Reusable Components: Structured as a React application with reusable components.
-Design: Implements a brainwave-inspired design, giving the website a futuristic, sleek appearance.
+### Responsive Design
+
+Built with Tailwind CSS for mobile-first responsiveness.
+
+### Modern Build Tools
+
+Powered by Vite for fast development and optimized builds.
+### Reusable Components
+
+Structured as a React application with reusable components.
+
+### Design
+
+Implements a brainwave-inspired design, giving the website a futuristic, sleek appearance.
 
 ## Tech Stack
 
-React: JavaScript library for building user interfaces.
-Vite: Fast build tool that serves as the foundation of this project.
-Tailwind CSS: Utility-first CSS framework for fast styling.
-JavaScript (ES6+): Modern JavaScript syntax for component logic.
+- React: JavaScript library for building user interfaces.
+- Vite: Fast build tool that serves as the foundation of this project.
+- Tailwind CSS: Utility-first CSS framework for fast styling.
+- JavaScript (ES6+): Modern JavaScript syntax for component logic.
 
 ## Installation
 
